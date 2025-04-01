@@ -35,7 +35,7 @@ Here comes Evians, where users can schedule charging spaces, check available sta
 2. Clone the repository
 
 ```sh
-git clone https://github.com/Evian-Sudocoders/backend.git
+git clone https://github.com/manishmahala/evian-backend.git
 ```
 
 3. Open the folder containing the cloned repository
@@ -59,6 +59,6 @@ npm run dev
 ## Contributors
 
 - [Akash Gupta](https://github.com/akashgupta1909)
-- [Harsh Gupta](https://github.com/harshgupta1249)
+- [Manish Mahala](https://github.com/manishmahala)
 - [Harshil Mendpara](https://github.com/HarshilMendpara)
 - [Raj Varsani](https://github.com/RajVarsani)
